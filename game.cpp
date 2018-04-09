@@ -69,7 +69,7 @@ void main()
     draw_line(70,'+');
     cout<<"\n\n\t\THANKS FOR COME TO CASINO YOUR BALANCE AMOUNT IS RS."<<balanceamt<<"\n\n";
     draw_line(70,'+');
-    cout<<"\n\nGame developed by ANIKET RAJPUT\n";
+    cout<<"\n\nGame developed by Ashutosh Thorat\n";
     draw_line(70,'+');
     getch();
 }
